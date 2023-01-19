@@ -1,3 +1,3 @@
 I'm Hilton Carrara
-CEFET-MG
+| CEFET-MG
 | C - C++ - Java - JavaScript - HTML - CSS - PHP - MySQL
