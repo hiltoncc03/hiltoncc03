@@ -1,3 +1,4 @@
 I'm Hilton Carrara
-| CEFET-MG
+| Técnico em Informática - CEFET-MG
+| Ciencias Exatas - UFJF
 | C - C++ - Java - JavaScript - HTML - CSS - PHP - MySQL
